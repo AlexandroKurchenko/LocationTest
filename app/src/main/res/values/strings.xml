@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Locations</string>
+    <string name="title_activity_map">Map</string>
+    <string name="action_list">List</string>
+    <string name="action_map">Map</string>
+
+    <string name="map_transition_name">mapTransitionName</string>
+    <string name="list_transition_name">listTransitionName</string>
+    <string name="details">Details for </string>
+    <string name="name_hint">Add location name </string>
+    <string name="lng">Longitude:</string>
+    <string name="lat">Latitude:</string>
+    <string name="notes">Notes:</string>
+    <string name="def_notes_hint">Add notes here.</string>
+    <string name="error_cloud_data">Error retrieving data from cloud</string>
+    <string name="location_permission_msg">Location access is required to track your location.</string>
+    <string name="location_disallowed">You can not use sorting by distance functionality</string>
+    <string name="error_save">Can not save your changes, please try again</string>
+    <string name="location_name_warning">Please enter location name</string>
+</resources>
